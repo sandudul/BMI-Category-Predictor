@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #a8edea, #fed6e3); /* Soft pastel turquoise to pink */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #3a3a3a;
+}
+
+.container {
+    background: #fffaf0; /* Warm cream */
+    padding: 40px 50px;
+    border-radius: 18px;
+    box-shadow:
+        0 6px 25px rgba(168, 237, 234, 0.4),
+        0 12px 40px rgba(254, 214, 227, 0.4);
+    width: 100%;
+    max-width: 420px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.container:hover {
+    transform: translateY(-10px);
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 2.3rem;
+    color: #6a8f87; /* Muted teal */
+    margin-bottom: 30px;
+    letter-spacing: 1.2px;
+}
+
+label {
+    display: block;
+    margin: 15px 0 8px;
+    font-weight: 600;
+    color: #5a5a5a;
+    text-align: left;
+    font-size: 1rem;
+}
+
+select, input {
+    width: 100%;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+    border: 1.8px solid #c7d2d2; /* Light pastel gray */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background: #fefcf9; /* Very light cream */
+    color: #3a3a3a;
+}
+
+select:focus, input:focus {
+    outline: none;
+    border-color: #7ab8a9; /* Soft pastel green */
+    box-shadow: 0 0 8px #7ab8a9;
+}
+
+button {
+    background-color: #7ab8a9; /* Soft pastel green */
+    color: white;
+    font-weight: 700;
+    font-size: 1.1rem;
+    padding: 14px 0;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    width: 100%;
+    box-shadow: 0 8px 15px rgba(122, 184, 169, 0.4);
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+    background-color: #5d9a8a;
+    box-shadow: 0 12px 25px rgba(93, 154, 138, 0.6);
+}
+
+.result {
+    margin-top: 25px;
+    padding: 15px 25px;
+    background-color: #d6f0e0; /* Soft mint green */
+    border-radius: 14px;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: #40675a;
+    box-shadow: 0 2px 12px rgba(122, 184, 169, 0.25);
+    user-select: none;
+    letter-spacing: 0.8px;
+}
