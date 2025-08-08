@@ -19,6 +19,11 @@ This app processes user data to predict BMI categories using classification mode
 - Integrating frontend and backend for smooth user experience  
 
 ---
+## 🎨 Design Preview
+
+**Design Files:** See [`Designs`](designs/) folder in this repository. 
+
+---
 
 ## 🎥 Preview Images
 
