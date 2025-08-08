@@ -22,8 +22,7 @@ This app processes user data to predict BMI categories using classification mode
 
 ## 🎥 Preview Images
 
-| ![Home Screen](docs/home.png) | ![Prediction](docs/prediction.png) | ![Training Accuracy](docs/accuracy.png) |
-
+![Home Screen](designs/2.png) 
 
 ---
 
@@ -35,5 +34,3 @@ This app processes user data to predict BMI categories using classification mode
 
 ---
 
-## 📈 Hashtags  
-#MachineLearning #Python #Flask #scikitlearn #Kaggle #WebDevelopment #DataScience #HealthTech #PersonalProject
