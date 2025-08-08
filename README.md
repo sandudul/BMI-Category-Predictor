@@ -26,11 +26,22 @@ This app processes user data to predict BMI categories using classification mode
 
 ---
 
-## 🚀 Skills Gained
-- Machine Learning model development with scikit-learn  
-- API creation and backend development using Flask  
-- Frontend design and responsive UI development  
-- Handling real datasets and preprocessing  
+## 🛠 Skills & Tools
+
+### Programming Languages & Frameworks
+- Python  
+- Flask (Backend API development)  
+- JavaScript, HTML, CSS (Frontend design)
+
+### Machine Learning & Data Processing
+- scikit-learn (Model building and evaluation)  
+- pandas & numpy (Data manipulation and preprocessing)  
+- joblib (Model serialization)
+
+### Tools & Platforms
+- VS Code (Code editor)  
+- Kaggle (Dataset sourcing)  
+- Git & GitHub (Version control and project hosting) 
 
 ---
 
