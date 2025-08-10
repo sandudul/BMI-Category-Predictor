@@ -44,9 +44,9 @@ This app processes user data to predict BMI categories using classification mode
 - joblib (Model serialization)
 
 ### Tools & Platforms
-- VS Code (Code editor)  
-- Kaggle (Dataset sourcing)  
-- Git & GitHub (Version control and project hosting) 
+- VS Code - (Code editor)  
+- Kaggle - (Dataset sourcing)  
+- Git & GitHub - (Version control and project hosting) 
 
 ---
 
