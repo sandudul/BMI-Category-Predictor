@@ -46,7 +46,7 @@ This app processes user data to predict BMI categories using classification mode
 ### Tools & Platforms
 - VS Code (Code editor)  
 - Kaggle (Dataset sourcing)  
-- Git and GitHub (Version control and project hosting) 
+- Git & GitHub (Version control and project hosting) 
 
 ---
 
